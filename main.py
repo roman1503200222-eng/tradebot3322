@@ -18,7 +18,7 @@ EMA_FAST = 5
 EMA_SLOW = 20
 BOT_TOKEN = '8021341376:AAHghDlL0F8XM-eK8AS6D0tyu9DqSRkEemQ'
 CHAT_ID = '1113760981'
-TIMEZONE = 'Europe/Moscow'  # UTC-3
+TIMEZONE = 'America/Sao_Paulo'
 
 # === Function: Send Message to Telegram ===
 def send_telegram_signal(message):
